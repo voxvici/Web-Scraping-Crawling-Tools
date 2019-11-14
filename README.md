@@ -15,7 +15,7 @@ Software made in Kivy and Python 3.6
 
 ## Requirements
 
-**Software**
+## __Software__
 
 **Python 3.6**
 
@@ -53,9 +53,9 @@ search_engines (local package)
 
 IP2LOCATION-LITE-DB3.CSV
 
-## __future__
+## Future
 
-1. Automatic website archiving tool
+1. Website archiving tool
 
 2. Better GUI design
 
