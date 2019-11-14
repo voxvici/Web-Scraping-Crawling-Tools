@@ -1,0 +1,25 @@
+--upgrade pip wheel setuptools
+pygeoip
+ip-country
+aiohttp
+asyncio
+parsel
+requests
+ip2geotools
+pillow
+bs4
+selector
+kivy
+docutils
+pygments
+pypiwin32
+
+search_engines(local package)
+
+kivy.deps.sdl2(windows)
+kivy.deps.glew(windows)
+kivy.deps.gstreamer(windows)
+kivy.deps.angle(windows)
+
+Files:
+	- IP2LOCATION-LITE-DB3.CSV in same folder as script
