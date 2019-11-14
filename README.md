@@ -1,6 +1,7 @@
 # Web Scraping & Crawling Tools
 
 Few tools to help you find scammers quickly on Google, Yahoo or Bing and scrape their websites to find similar scammers.
+Software made in Kivy and Python 3.6
 
 ## Features
 
