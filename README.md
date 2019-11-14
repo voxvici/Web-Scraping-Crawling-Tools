@@ -17,6 +17,8 @@ Software made in Kivy and Python 3.6
 
 **Software**
 
+**Python 3.6**
+
 [pygeoip](https://pypi.org/project/pygeoip/) >= 0.3.2
 
 [ip-country](https://pypi.org/project/ip-country/) >= 1.0.0
