@@ -17,7 +17,7 @@ Software made in Kivy and Python 3.6
 
 **Software**
 
-**Python 3.6**
+**Python >= 3.6**
 
 [pygeoip](https://pypi.org/project/pygeoip/) >= 0.3.2
 
@@ -59,6 +59,6 @@ IP2LOCATION-LITE-DB3.CSV
 
 2. Better GUI design
 
-## Install
+## Run
 
 ![web scraping and crawling tools](https://i.ibb.co/StmR7Rc/wsct.jpg)
