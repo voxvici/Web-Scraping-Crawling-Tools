@@ -15,7 +15,7 @@ Software made in Kivy and Python 3.6
 
 ## Requirements
 
-## __Software__
+**Software**
 
 **Python 3.6**
 
