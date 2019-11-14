@@ -53,6 +53,12 @@ search_engines (local package)
 
 IP2LOCATION-LITE-DB3.CSV
 
+## __future__
+
+1. Automatic website archiving tool
+
+2. Better GUI design
+
 ## Install
 
 ![web scraping and crawling tools](https://i.ibb.co/StmR7Rc/wsct.jpg)
