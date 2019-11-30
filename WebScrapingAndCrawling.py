@@ -19,13 +19,6 @@ import requests
 from parsel import Selector
 from kivy.core.window import Window
 
-"""
-
-__future__:
-	Possible improvements: automatic website archiving tool, better gui design, ignoring robots.txt & unmasking cloudflare
-
-"""
-
 class MainWindow(Screen):
     pass
 
