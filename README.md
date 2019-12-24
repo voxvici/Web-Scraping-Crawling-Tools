@@ -53,12 +53,8 @@ search_engines (local package)
 
 [IP2LOCATION-LITE-DB3.CSV](https://lite.ip2location.com/database/ip-country-region-city)
 
-## Future
+## Future Updates
 
 1. Website archiving tool
 
 2. Better GUI design
-
-## Run
-
-![web scraping and crawling tools](https://i.ibb.co/StmR7Rc/wsct.jpg)
