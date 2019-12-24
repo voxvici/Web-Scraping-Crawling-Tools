@@ -55,6 +55,6 @@ search_engines (local package)
 
 ## Future Updates
 
-1. Website archiving tool
+Website archiving tool
 
-2. Better GUI design
+Better GUI design
